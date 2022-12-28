@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "aboba"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Naiv0/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naiv0/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Naiv0/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
